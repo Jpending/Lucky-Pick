@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fc332db0eb351b6a0a924b6180a22d5",
+    "revision": "1847ceebf8f54e484fb920779fca4c9a",
     "url": "/Lucky-Pick/index.html"
   },
   {
-    "revision": "481957c7019b81b5b806",
+    "revision": "b2ff12f82370df27bb56",
     "url": "/Lucky-Pick/static/css/main.e6ae0c26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lucky-Pick/static/js/2.ca161a30.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "481957c7019b81b5b806",
-    "url": "/Lucky-Pick/static/js/main.125807d4.chunk.js"
+    "revision": "b2ff12f82370df27bb56",
+    "url": "/Lucky-Pick/static/js/main.928b4d0c.chunk.js"
   },
   {
     "revision": "9fea2e8c600a1bafef86",
